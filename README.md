@@ -1,3 +1,4 @@
+![https://github.com/aoi-yuito/aoi-yuito/blob/main/coding-with-AI.jpg]()
 <h1 align="center">Hi 👋, I'm Yuito!</h1>
 <h3 align="center">A passionate developer</h3>
 
