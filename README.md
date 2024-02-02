@@ -6,4 +6,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aoi-yuito&show_icons=true&locale=en" alt="aoi-yuito" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aoi-yuito&" alt="aoi-yuito" /></p>
+<p background="black"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aoi-yuito&" alt="aoi-yuito" /></p>
