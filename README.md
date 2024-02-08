@@ -37,7 +37,7 @@
 <br/>
 
 <div align=center>
-  <img width="393" src="https://github-readme-stats.vercel.app/api?username=aoi-yuito&show_icons=true&locale=en" alt="aoi-yuito" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=aoi-yuito&show_icons=true&locale=en" alt="aoi-yuito" />
   <img width="415" src="https://github-readme-streak-stats.herokuapp.com/?user=aoi-yuito&" alt="aoi-yuito" />
 
   <br/>
