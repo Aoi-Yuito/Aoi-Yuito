@@ -6,6 +6,18 @@
 
 <br/>
 
+<div align="center">
+ 
+ 🔭 I’m currently working on **a Discord Application**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, Rust**
+
+💬 Ask me about **Python, Rust, Discord Bots... or anything [here](https://github.com/aoi-yuito/aoi-yuito/issues)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <be>
@@ -13,14 +25,8 @@
 <div align=center>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aoi-yuito&show_icons=true&locale=en" alt="aoi-yuito" /></p>
   <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aoi-yuito&" alt="aoi-yuito" /></p>
-  <br/>
-  <br/>
-  <br/>
+    
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+  
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aoi-yuito&show_icons=true&locale=en&layout=compact" alt="aoi-yuito" /></p>
 </div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aoi-yuito&show_icons=true&locale=en&layout=compact" alt="aoi-yuito" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aoi-yuito&show_icons=true&locale=en" alt="aoi-yuito" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aoi-yuito&" alt="aoi-yuito" /></p>
