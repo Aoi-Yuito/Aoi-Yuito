@@ -49,5 +49,5 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Also working on... ⚒️</h2>
+<h2 align="center">⚒️ Also working on a challenge... ⚒️</h2>
 <img src="https://backend.codecrafters.io/progress/redis/0f19bd87-8a22-4b20-a39c-3a051eaab37e" alt="code-crafter" />
